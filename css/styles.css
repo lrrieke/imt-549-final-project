@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Nunito Sans";
+    font-size: 16px;
+}
+.tagline {
+    font-size: 1.25rem;
+    font-style: normal;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+h1, h2 {
+    font-family: Raleway;
+    font-weight: 300;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+h1 {
+    font-size: 4.0rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+h5 {
+    font-weight: bold;
+}
+.container {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.form-group {
+    font-family: Raleway;
+    font-size: 1.5rem;
+    padding-left: 16px;
+    padding-right: 500px;
+}
+button {
+    padding-left: 16px;
+}
+p {
+    font-style: italic;
+    font-size: 1rem;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+ul {
+    font-style: italic;
+    font-size: 1.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer {
+    padding-left: 16px;
+    padding-right: 16px;
+}
